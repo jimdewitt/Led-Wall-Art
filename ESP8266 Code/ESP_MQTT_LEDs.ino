@@ -1,5 +1,5 @@
 /*
-LED file for 8266
+LED file for 8266 testing
   Thanks much to @corbanmailloux for providing a great framework for implementing flash/fade with HomeAssistant https://github.com/corbanmailloux/esp-mqtt-rgb-led
   
   To use this code you will need the following dependancies: 
